@@ -1,38 +1,46 @@
-### Olá ⚡🐱‍👤
-⭐ &nbsp; Meu nome é Vitor Belo <br>
-🏆 &nbsp; Sou desenvolvedor Full-stack Jr. <br>
-💻 &nbsp; Formado em Análise e Desenvolvimento de Sistemas na UNIP <br>
-🏡 &nbsp; Moro em Sorocaba, SP e meu sonho é programar fora do Brasil 🌎
+## Git-Hub Profile - <strong>Vitor Belo</strong>
 
-<div>
-  <a href="https://github.com/vitorbelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorbelo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbelo&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+<p align="left"> 
+  🌎 Bem-vindo ao meu perfil. Me chamo Vitor Belo e sou <strong>Desenvolvedor de Full-Stack</strong>.
+</p>
+
+<p align="left">
+  💌 Caso queira entrar em contato, segue minhas redes Sociais:
+</p>
+
+<p align="left">
+  <a href="https://www.instagram.com/vitorrbelo/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-1C1C1C?style=for-the-badge&logo=Instagram&logoColor=00FFFF&link=https://www.instagram.com/iuricode"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vitor-belo" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/iuricode"/>
+  </a>
+  
+<!--   <a href="" alt="Discord">
+    <img src="https://img.shields.io/badge/-Discord-1C1C1C?style=for-the-badge&logo=Discord&logoColor=00FFFF&link=https://discord.gg/QevDJqCzaY"/>
+  </a> -->
+</p>  
+
+[![card](https://github-readme-stats.vercel.app/api?username=vitorbelo&theme=dark)](https://github.com/vitorbelo/)
+[![vitorbelo](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbelo&hide=html&layout=compact&theme=dark)](https://github.com/vitorbelo/)
+
 
   ## Habilidades
- <div style="display: inline_block"><br>
-  <img align="center" alt="Vitor-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Vitor-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Vitor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-
+<div style="display: inline_block"><br>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" height="25"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="25"/>
 </div>
-  
-  ## Redes Sociais
-  <a href="https://www.linkedin.com/in/vitor-belo/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/733/733561.svg"></a></a>
-  
-<!--
-**vitorbelo/vitorbelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Habilidades em aprendizado
+- [x] <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25"/>
+- [ ] <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" height="25"/>
+- [x] <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
+- [ ] <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
+- [x] <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
+- [ ] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
