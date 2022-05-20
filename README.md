@@ -22,11 +22,11 @@
   </a> -->
 </p>  
 
-[![card](https://github-readme-stats.vercel.app/api?username=vitorbelo&theme=dark)](https://github.com/vitorbelo/)
+<!-- [![card](https://github-readme-stats.vercel.app/api?username=vitorbelo&theme=dark)](https://github.com/vitorbelo/) -->
 [![vitorbelo](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorbelo&hide=html&layout=compact&theme=dark)](https://github.com/vitorbelo/)
 
 
-  ## Habilidades
+<!--   ## Habilidades
 <div style="display: inline_block"><br>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="25"/>
@@ -43,4 +43,4 @@
 - [x] <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="25"/>
 - [ ] <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" height="25"/>
 - [x] <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" height="25"/>
-- [ ] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/>
+- [ ] <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" height="25"/> -->
