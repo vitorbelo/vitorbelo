@@ -8,4 +8,8 @@
 -  &nbsp; Aprendendo mais sobre **NODE, React, VueJs, Docker, etc**.
 
 <h2> Meu Portfólio: </h2>
-<a href="https://vitorbelo.github.io/Portfolio-VitorBelo/" target="https://vitorbelo.github.io/Portfolio-VitorBelo/"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a> 
+https://vitorbelo.github.io/Portfolio-VitorBelo/
+<h2> Meu currículo: </h2>
+https://vitorbelo.github.io/Curriculo/
+
+
