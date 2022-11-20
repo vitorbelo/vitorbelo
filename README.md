@@ -8,8 +8,8 @@
 -  &nbsp; Aprendendo mais sobre **NODE, React, VueJs, Docker, etc**.
 
 <h2> Meu Portfólio: </h2>
-https://vitorbelo.github.io/Portfolio-VitorBelo/
+https://vitorbelo.github.io/Portfolio-VitorBelo/ - em construção
 <h2> Meu currículo: </h2>
-https://vitorbelo.github.io/Curriculo/
+https://vitorbelo.github.io/Curriculo/ - atualizado dia 20/11/2022
 
 
